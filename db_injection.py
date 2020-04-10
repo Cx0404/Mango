@@ -1,3 +1,4 @@
+
 import sys
 import requests
 import string
@@ -74,8 +75,3 @@ if __name__ == "__main__":
     type = ",login:login"
     classify(url,username,password,type,"username")
     classify(url,username,password,type,"password")
-
-    
-    
-    
-    
